@@ -1,4 +1,4 @@
-package org.example;
+package org.NoHunckback;
 
 import org.bytedeco.javacv.Frame;
 import org.bytedeco.opencv.opencv_objdetect.CascadeClassifier;
